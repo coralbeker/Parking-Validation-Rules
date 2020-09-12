@@ -1,0 +1,27 @@
+
+Preconditions:
+
+Enter the <apiKey> located in this path 'serviceConfig\serviceConfig.js'
+
+Enter <MongoConection> located in this path 'mongo\mongoConnction.js'
+
+-----------------------------------------------------------------------------------
+Project Configuration:
+
+npm install
+
+------------------------------------------------------------------------------------
+
+Run Command:
+
+node app.js platePhotos/<enter a photo name from the platePhotos folder>
+
+Example: node app.js platePhotos/00.png
+
+-------------------------------------------------------------------------------------
+
+DB: https://cloud.mongodb.com/
+
+Api: https://ocr.space/OCRAPI
+
+Car Plate Photos: located in PlatePhotos folder
